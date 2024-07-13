@@ -12,7 +12,7 @@
 		guide: "{pn}"
 	},
 
-	onStart: async function ({ message }) {
+	onStart: async function ({ 😮‍💨 bon que puis je pour mes limite en piratage sont super }) {
 	 var link = [ 
 "https://i.ibb.co/xjN5mq3/image.jpg",
   ]
