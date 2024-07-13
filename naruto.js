@@ -1,8 +1,8 @@
 const axios = require("axios")
 module.exports = {
 	config: {
-		name: 'naruto',
-        aliases: ["ninja"],
+		name: 'Lucy',
+        aliases: ["pirateus"],
 		version: '1.2',
 		author: 'Luxion/fixed by Riley',
 		countDown: 0,
