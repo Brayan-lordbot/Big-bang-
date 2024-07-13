@@ -1,7 +1,7 @@
 module.exports = {
 	config: {
-		name: "shisui",
-		aliases: ["shi"],
+		name: "brayan",
+		aliases: ["brad"],
 		version: "1.0",
 		author: "ʬɸʬ Shïsûį Dånïęl ʬɸʬ", // do not change this credits
 		countDown: 5,
@@ -21,7 +21,7 @@ module.exports = {
   ]
 let img = link[Math.floor(Math.random()*link.length)]
 message.send({
-  body: '🎀✨𝐔𝐂𝐇𝐈𝐖𝐀 𝐒𝐇𝐈𝐒𝐔𝐈✨🎀',attachment: await global.utils.getStreamFromURL(img)
+  body: '🎀✨LORD BRAYAN✨🎀',attachment: await global.utils.getStreamFromURL(img)
 })
 }
   }
