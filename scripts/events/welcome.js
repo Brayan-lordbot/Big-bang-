@@ -26,10 +26,11 @@ module.exports = {
 			session2: "noon",
 			session3: "afternoon",
 			session4: "evening",
-			welcomeMessage: "𝚂𝙾𝙽𝙸𝙲 👻✨🍀\n━━━━━━━━━━━━━━━━\n𝐁𝐎𝐓 𝐏𝐑𝐄𝐅𝐈𝐗 ☘️%1☘️\nTo view the list of commands, please enter: %1help",
+			session5: "night 🌃",
+			welcomeMessage: "𝚂𝙾𝙽𝙸𝙲 ❄️⌛⚜️🌹\n━━━━━━━━━━━━━━━━\n𝐁𝐎𝐓 𝐏𝐑𝐄𝐅𝐈𝐗 ☘️%1☘️\nIf you want my commands, enter this : %1help",
 			multiple1: "you",
 			multiple2: "you guys",
-			defaultWelcomeMessage: `𝐒𝐚𝐥𝐮𝐭 🎶{userName}🎶.\n━━━━━━━━━━━━━━━━\n𝐁𝐢𝐞𝐧𝐯𝐞𝐧𝐮𝐞 𝐝𝐚𝐧𝐬 𝐥𝐞 𝐠𝐫𝐨𝐮𝐩𝐞: {boxName}\n━━━━━━━━━━━━━━━━`
+			defaultWelcomeMessage: `Hello 🌹{userName}🌹.\n━━━━━━━━━━━━━━━━\n𝐁𝐢𝐞𝐧𝐯𝐞𝐧𝐮𝐞 𝐝𝐚𝐧𝐬 𝐥𝐞 𝐠𝐫𝐨𝐮𝐩𝐞: {boxName} si tu e cherche les bp je ferai de ta vie un enfere👿, et surtout je protégerai toujours mon admin sur ce bonne je te laisse 😶\n━━━━━━━━━━━━━━━━🌹`
 		}
 	},
 
