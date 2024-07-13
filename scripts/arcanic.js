@@ -37,7 +37,7 @@ module.exports = {
       
       api.setMessageReaction("🔴", event.messageID, () => { }, true);
       message.reply({
-        body: `𝐒𝐎𝐍𝐈𝐂🍀 ✧════•❁❀❁•════✧
+        body: `Lucy🍀 ✧════•❁❀❁•════✧
 ${name} ${result}
 ✧════•❁❀❁•════✧ 𝐀𝐑𝐂𝐀𝐍𝐎🔴`,
         mentions: ment,
@@ -67,7 +67,7 @@ ${name} ${result}
      
       api.setMessageReaction("🔴", event.messageID, () => { }, true);
       message.reply({
-        body: `𝐒𝐎𝐍𝐈𝐂🍀 ✧════•❁❀❁•════✧
+        body: `Lucy🍀 ✧════•❁❀❁•════✧
 ${name}  
 ${result}
 ✧════•❁❀❁•════✧ 𝐀𝐑𝐂𝐀𝐍𝐎🔴`,
