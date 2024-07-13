@@ -5,7 +5,7 @@ const path = require('path');
 module.exports = {
   config: {
     name: "arcano",
-    aliases: ["Shïsûį"],
+    aliases: ["Lõrd Bråÿân"],
     author: " Aesther ", 
     version: "2.0",
     cooldowns: 5,
@@ -30,7 +30,7 @@ module.exports = {
           name: '🔴𝐀𝐑𝐂𝐀𝐍𝐎🔴',
           gender: '𝗕𝗢𝗬',
           hobby: '𝐁𝐚𝐬𝐤𝐞𝐭🏀',
-          relationship: '𝙐𝙉𝘿𝙀𝙁𝙄𝙉𝙀𝘿',
+          relationship: '𝘿𝙀𝙁𝙄𝙉𝙀𝘿',
           facebookLink: 'https://www.facebook.com/profile.php?id=61559119588245',
           bio: '𝙐𝙉𝘿𝙀𝙁𝙄𝙉𝙀𝘿'
         };
@@ -72,9 +72,9 @@ module.exports = {
 ❍⌇─➭ 
  𝗙𝗔𝗖𝗘𝗕𝗢𝗢𝗞🔗: ${ownerInfo.facebookLink}
 ❍⌇─➭ 
-      ◈ 𝗦𝗧𝗔𝗧𝗨𝗦 ◈: $🇨🇲 𝐀𝐑𝐂𝐀𝐍𝐎 𝐌𝐀𝐋𝐈𝐆𝐍𝐔𝐈𝐒 💯🔴 
+      ◈ 𝗦𝗧𝗔𝗧𝗨𝗦 ◈: $🇨🇲 𝐀𝐑𝐂𝐀𝐍𝐎 LORD BRAYINIUS 💯🔴 
 
-𝐔𝐍 𝐏𝐀𝐒𝐒𝐈𝐎𝐍𝐍É 𝐃𝐄 𝐓𝐄𝐂𝐇𝐍𝐎𝐋𝐎𝐆𝐈𝐄𝐒, 𝐏𝐋𝐔𝐒 𝐒𝐎𝐌𝐁𝐑𝐄 𝐐𝐔𝐄 𝐋'𝐎𝐌𝐁𝐑𝐄
+𝐔𝐍 𝐏𝐀𝐒𝐒𝐈𝐎𝐍𝐍É 𝐃𝐄 𝐓𝐄𝐂𝐇𝐍𝐎𝐋𝐎𝐆𝐈𝐄𝐒, ET EST MANIAC ET ATTENTIONÉ 
         `;
 
         await api.sendMessage({
