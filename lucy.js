@@ -33,7 +33,7 @@ module.exports = {
 			return message.reply(args[0] == "on" ? getLang("turnedOn") : getLang("turnedOff"));
 		}
 		else if (args[0]) {
-			const yourMessage = args.join(" ");
+			const yourMessage = args.join("yo les reuf, ça dit quoi");
 			try {
 				const responseMessage = await getMessage(yourMessage);
 				return message.reply(`${responseMessage}`);
@@ -63,7 +63,7 @@ async function getMessage(yourMessage, langCode) {
 	const res = await axios.post(
     'https://api.simsimi.vn/v1/simtalk',
     new URLSearchParams({
-        'text': yourMessage,
+        'text': Oui-Oui que puis je faire pour toi,
         'lc': 'fr'
     })
 );
